@@ -8,11 +8,3 @@ artifacts-ovm
 cache-ovm
 .env
 gasReporterOutput.json
-
-# echidna
-crytic-export/
-corpus/
-
-# certora
-.*certora*
-.last_confs/
