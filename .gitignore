@@ -6,3 +6,7 @@ typechain
 crytic-export/
 .env
 gasReporterOutput.json
+
+# certora
+.*certora*
+.last_confs/
